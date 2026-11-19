@@ -1,6 +1,6 @@
 #!/bin/sh
 
-TARGET="[https://laboratorio-ciberseguridad-janacona.onrender.com/](https://laboratorio-ciberseguridad-janacona.onrender.com/)"
+TARGET="https://laboratorio-ciberseguridad-janacona.onrender.com/"
 
 echo "=== SIMULACIÓN: GENERANDO TRÁFICO MASIVO HTTP ==="
 echo "Enviando ráfaga de peticiones concurrentes a $TARGET..."
