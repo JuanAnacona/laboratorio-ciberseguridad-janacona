@@ -1,6 +1,6 @@
 #!/bin/sh
 
-HOST="https://laboratorio-ciberseguridad-janacona.onrender.com/"
+HOST="laboratorio-ciberseguridad-janacona.onrender.com"
 
 echo "=== INICIANDO ESCANEO DE PUERTOS Y RECONOCIMIENTO EN LA DMZ ==="
 echo "Analizando puertos comunes sobre $HOST..."
