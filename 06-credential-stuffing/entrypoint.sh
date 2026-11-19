@@ -1,6 +1,6 @@
 #!/bin/sh
 
-TARGET="[https://laboratorio-ciberseguridad-janacona.onrender.com](https://laboratorio-ciberseguridad-janacona.onrender.com)"
+TARGET="https://laboratorio-ciberseguridad-janacona.onrender.com"
 USUARIOS="admin root user docente gestor"
 
 echo "=== INICIANDO ATAQUE DE CREDENTIAL STUFFING / BRUTE FORCE ==="
