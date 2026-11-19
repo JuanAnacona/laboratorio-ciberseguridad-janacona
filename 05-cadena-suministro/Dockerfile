@@ -1,4 +1,3 @@
-05-cadena-suministro/Dockerfile
 FROM alpine:latest
 
 RUN apk add --no-cache curl python3
